@@ -17,6 +17,7 @@ rank=np.linalg.matrix_rank(a)
 print (rank)
 ```
 ## Output:
+![WhatsApp Image 2026-02-05 at 9 00 57 AM (2)](https://github.com/user-attachments/assets/a1ea1e20-49ed-43e0-b603-d5010746e59b)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
