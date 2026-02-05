@@ -17,7 +17,9 @@ rank=np.linalg.matrix_rank(a)
 print (rank)
 ```
 ## Output:
-![Uploading WhatsApp Image 2026-02-05 at 9.00.57 AM (2).jpeg…]()
+
+![WhatsApp Image 2026-02-05 at 9 00 57 AM (2)](https://github.com/user-attachments/assets/9865d30d-2f41-44cf-a828-ef2736147449)
+
 
 
 ## Result:
